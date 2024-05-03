@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262174300134",
+    "project_id": "myscreens-e486a",
+    "storage_bucket": "myscreens-e486a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262174300134:android:d43c57187a87c331e5a827",
+        "android_client_info": {
+          "package_name": "com.example.myscreens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7QIPyws4eFpj9-3fRQZt2YaWrvTsGPbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
